@@ -1,0 +1,6 @@
+@RestWithASP_NET_calculator_HostAddress = http://localhost:5116
+
+GET {{RestWithASP_NET_calculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
