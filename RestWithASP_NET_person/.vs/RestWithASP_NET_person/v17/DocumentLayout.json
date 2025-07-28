@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|d:\\cursos\\restwithasp_net\\restwithasp_net_person\\restwithasp_net_person\\restwithasp_net_person.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7DD4C497-E4AB-43F6-997B-C6FA778FB93E}|RestWithASP_NET_person\\RestWithASP_NET_person.csproj|solutionrelative:restwithasp_net_person\\restwithasp_net_person.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASP_NET_person\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T17:55:52.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Program.cs",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Program.cs",
+              "RelativeToolTip": "RestWithASP_NET_person\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:34:44.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASP_NET_person\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:01:32.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Services\\IPersonService.cs",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Services\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASP_NET_person\\Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:23:42.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Model\\Person.cs",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASP_NET_person\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:22:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASP_NET_person\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:20:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestWithASP_NET_person.http",
+              "DocumentMoniker": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\RestWithASP_NET_person.http",
+              "RelativeDocumentMoniker": "RestWithASP_NET_person\\RestWithASP_NET_person.http",
+              "ToolTip": "D:\\CURSOS\\RestWithASP_NET\\RestWithASP_NET_person\\RestWithASP_NET_person\\RestWithASP_NET_person.http",
+              "RelativeToolTip": "RestWithASP_NET_person\\RestWithASP_NET_person.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-26T20:18:31.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

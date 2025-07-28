@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RestWithASP_NET_person/1.0.0": {
+        "runtime": {
+          "RestWithASP_NET_person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestWithASP_NET_person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
