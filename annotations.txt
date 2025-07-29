@@ -1,0 +1,2 @@
+dotnet ef migrations add AddProductDataTableOnDB
+dotnet ef database update
