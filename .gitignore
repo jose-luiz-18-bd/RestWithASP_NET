@@ -1,0 +1,58 @@
+## Ignore pastas de build
+bin/
+obj/
+
+## Ignore configurações de usuário e IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Arquivos de log e cache
+*.log
+*.tlog
+*.cache
+*.pdb
+*.tmp
+*.db
+*.db-shm
+*.db-wal
+
+## Arquivos temporários do Visual Studio
+*.vsidx
+*.VC.db
+*.VC.opendb
+
+## Backup de editores
+*~
+*.bak
+*.old
+*.orig
+
+## Diretórios do NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Arquivos de build do Rider
+.idea/
+*.sln.iml
+
+## Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Configurações do JetBrains Rider
+.idea/
+
+## Diretórios de dependência em projetos frontend
+node_modules/
+dist/
+
+## Outros arquivos específicos
+*.swp
+*.vscode/
