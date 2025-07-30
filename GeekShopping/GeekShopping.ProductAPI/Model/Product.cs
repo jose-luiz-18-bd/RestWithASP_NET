@@ -31,3 +31,4 @@ namespace GeekShopping.ProductAPI.Model
         public string ImageUrl { get; set; }
     }
 }
+

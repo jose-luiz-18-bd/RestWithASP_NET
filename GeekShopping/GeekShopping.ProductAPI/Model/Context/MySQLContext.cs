@@ -9,3 +9,4 @@ namespace GeekShopping.ProductAPI.Model.Context
         public DbSet<Product> Products { get; set; }
     }
 }
+

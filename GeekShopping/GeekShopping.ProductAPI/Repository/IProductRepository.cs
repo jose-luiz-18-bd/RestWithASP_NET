@@ -11,3 +11,4 @@ namespace GeekShopping.ProductAPI.Repository
         Task<bool> Delete(long id);
     }
 }
+
